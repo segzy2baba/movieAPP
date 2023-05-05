@@ -19,7 +19,8 @@ Installation
 
 
 Clone the repository
- https://github.com/segzy2baba/movieAPP
+ https://github.com/segzy2baba/movieAPP.git
+ 
 
   the APP AS two file
   movie-api - for nest.js backend
